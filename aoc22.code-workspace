@@ -12,15 +12,8 @@
 				"name": "Python: Example",
 				"type": "python",
 				"request": "launch",
-				"program": "${file}",
-				"console": "integratedTerminal",
-				"justMyCode": true
-			}, {
-				"name": "Python: Live",
-				"type": "python",
-				"request": "launch",
-				"program": "${file}",
-				"args": ["1/input.txt"],
+				"program": "${workspaceFolder}/run.py",
+				// "args": ["Day1/example.txt"],
 				"console": "integratedTerminal",
 				"justMyCode": true
 			}
