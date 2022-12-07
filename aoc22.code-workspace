@@ -16,6 +16,13 @@
 				// "args": ["Day1/example.txt"],
 				"console": "integratedTerminal",
 				"justMyCode": true
+			},{
+				"name": "Python: Current File",
+				"type": "python",
+				"request": "launch",
+				"program": "${file}",
+				"console": "integratedTerminal",
+				"justMyCode": true
 			}
 		]
 	}
