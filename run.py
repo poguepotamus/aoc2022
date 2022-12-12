@@ -3,6 +3,6 @@ from pathlib import Path
 
 
 
-from Day6 import Part2
+from Day10.Part2 import solve
 
-print(Part2.solve(Path() / 'Day6' / 'input.txt'))
+print(solve(Path() / 'Day10' / 'input.txt'))

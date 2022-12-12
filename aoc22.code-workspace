@@ -9,7 +9,7 @@
 		"version": "0.2.0",
 		"configurations": [
 			{
-				"name": "Python: Example",
+				"name": "Python: RunFile",
 				"type": "python",
 				"request": "launch",
 				"program": "${workspaceFolder}/run.py",
